@@ -91,11 +91,11 @@ The short term interest rates have been performing better than long term in 2024
 
 ###### MACRO OUTLOOK SUMMARY
 Current Environment (June 2025)
-•	CPI near 2% → Fed has breathing room.
-•	Rate cuts possible, but Fed might move slowly unless GDP craters.
-•	Q2 GDP might confirm technical recession.
-•	US debt/fiscal concerns could push term premiums up, hurting long-duration.
-•	Market volatility likely to increase.
+- CPI near 2% → Fed has breathing room.
+- Rate cuts possible, but Fed might move slowly unless GDP craters.
+- Q2 GDP might confirm technical recession.
+- US debt/fiscal concerns could push term premiums up, hurting long-duration.
+- Market volatility likely to increase.
 
 ###### Treasury bonds allocation:
 | Bond      | Allocation | Description |
