@@ -32,7 +32,7 @@ The EIB bond offered a 2.9% return at maturity in August—decent for about six 
 - **Tariffs impact lag**: The tariffs caused a lot of companies to stock up, the impact have not yet have a full cycle to inflation data but are adding to supply side pressures. Part of Trump plan is to make american exports competitive and he cannot do that without purposely devaluing the USD. 
 - **Recession**: The US GDP in the first quarter contracted by 0.3%.  I expect Q2 2025 GDP data to confirm a 2nd consecutive quarter of negative growth - which is the economist's definition of a recession. While noone has been saying the R word for now, i expect news and media to overblow and overuse it once GDP data for Q2 are out, which would fuel a panic and add to more uncertainty. 
 - **Labor market layoffs**: while job numbers are now starting to reflect layoffs, everyone knows and have noticed that since beginning of this year there have been more and more layoffs.
-
+- **One Big Beautiful Bill**:  Concerns over US rising debt when the 1BBB gets introduce could affect long term bonds as it would drive up the term premiums as it has been doing since the past year.
 
 ### Federal Reserve Outlook
 Inflation numbers (2.3% trailing 12months ending April) are meeting Fed's 2% target and they have now acknowledge that a recession is very likely. So they have a room for operation in cutting interest rates and they will do such as late as possible and in typical fashion - after the fact i.e once everyone starts to panic sell. It might be as soon as next month for next quarter or later this year. But one thing is for sure imo, they are not gonna increase interest rates. 
@@ -78,4 +78,45 @@ Which is pushing me to come up with some creative strategies:
 2.	Accumulating Share Classes:
 	-	Instead of receiving taxable dividend payouts, these reinvest dividends internally, increasing the NAV.
 	-	As a result, no dividend tax is incurred until you sell the ETF, depending on your jurisdiction’s capital gains tax rules.
+
+##### Bond price performance from interest rate changes.:
+
+I've compile a chart for the short term, medium terms, and long term bond price performance from interest rate changes.
+The short term interest rates have been performing better than long term in 2024, as: 
+1. Inflation risks were still present
+2. Fiscal concerns about US Debt and election uncertainty
+3. as such Investors needed more yields to stay in long term bonds = driving bond prices stable or even decreasingly.
+
+![Interest rates](../assets/treasurybonds2024.png)
+
+###### MACRO OUTLOOK SUMMARY
+Current Environment (June 2025)
+•	CPI near 2% → Fed has breathing room.
+•	Rate cuts possible, but Fed might move slowly unless GDP craters.
+•	Q2 GDP might confirm technical recession.
+•	US debt/fiscal concerns could push term premiums up, hurting long-duration.
+•	Market volatility likely to increase.
+
+###### Treasury bonds allocation:
+| Bond      | Allocation | Description |
+| ----------- | ----------- | ---- |
+| 0-1 year treasury bonds      | 30%       | Stability, liquidity, yield ~5% now |
+| 3-7 year treasury bonds   | 40%        | Sweet spot for rate-cut upside vs volatility |
+| 20 years+ treasury bonds   | 40%        | Big upside if recession deepens or Fed slashes rates unexpectedly |
+
+This allocation would mitigate the some risks relating to term premiums, or if fed desides to have a slow rate cut.
+For more aggressive allocation i'd shift to increasing weight on long and mid term bonds and do the opposite for risk adversity.
+
+###### Treasury bonds instruments:
+We are looking into Accumulating etfs that are irish-domicile for tax efficiency:
+
+| Bond      | Allocation |
+| ----------- | ----------- |
+| 0-1 year treasury bonds | iShares USD Treasury Bond 0-1yr UCITS ETF (Acc): **IBC1**|
+| 3-7 year treasury bonds | iShares USD Treasury Bond 3-7yr UCITS ETF (Acc): **SXRL**|
+| 20 years+ treasury bonds | iShares USD Treasury Bond 20+yr UCITS ETF USD (Acc): **SXRC**|
+
+##### Additional risk mitigation
+A more sophisticated portfolio i think would incorporate more asset classes such as: gold/commodities, defensive ETFs, Money Market Funds/ Cash.
+But from my end I am happy to be slightly more aggressive and have an all bond portfolio which has a good blend of short, med, long term bonds. 
 </div>
