@@ -102,7 +102,7 @@ Current Environment (June 2025)
 | ----------- | ----------- | ---- |
 | 0-1 year treasury bonds      | 30%       | Stability, liquidity, yield ~5% now |
 | 3-7 year treasury bonds   | 40%        | Sweet spot for rate-cut upside vs volatility |
-| 20 years+ treasury bonds   | 40%        | Big upside if recession deepens or Fed slashes rates unexpectedly |
+| 20 years+ treasury bonds   | 30%        | Big upside if recession deepens or Fed slashes rates unexpectedly |
 
 This allocation would mitigate the some risks relating to term premiums, or if fed desides to have a slow rate cut.
 For more aggressive allocation i'd shift to increasing weight on long and mid term bonds and do the opposite for risk adversity.
